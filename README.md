@@ -44,8 +44,8 @@ I document my methodology for every machine I compromise in my [THM-ROOMS](https
 ---
 
 ## 📊 Verification & Stats
-[![TryHackMe](https://tryhackme.com/p/yusupbayev)
-[![HackTheBox] **HTB Student ID:** `HTB-8D652576D8`
+TryHackMe(https://tryhackme.com/p/yusupbayev)
+HTB Student ID:** `HTB-8D652576D8`
 ---
 
 ## 📫 Let's Connect

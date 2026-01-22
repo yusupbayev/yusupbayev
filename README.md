@@ -1,4 +1,4 @@
-# Hi, I'm [Kamronbek Yusupbayev] 👋
+# Hi, I'm Kamronbek Yusupbayev 👋
 ### Cybersecurity Student | Aspiring Penetration Tester | CTF Documentation Enthusiast
 
 ---

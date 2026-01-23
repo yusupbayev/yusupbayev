@@ -35,6 +35,7 @@ Derived from rigorous training in the HTB Academy and TryHackMe labs:
 
 ## 📂 Featured CTF Walkthroughs
 I document my methodology for every machine I compromise in my [THM-ROOMS](https://github.com/yusupbayev/THM-ROOMS) repository:
+* 🟠 **Wonderland** - Chaining Python Library Hijacking, SUID PATH Injection, and Perl Capabilities.
 * 🟢 **GLITCH** - API Fuzzing & Node.js Remote Code Execution.
 * 🟢 **BountyHacker** - Anonymous FTP & Tar Wildcard exploitation.
 * 🟢 **Tomghost** - Detailed analysis of Ghostcat (CVE-2020-1938).

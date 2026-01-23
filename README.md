@@ -35,10 +35,11 @@ Derived from rigorous training in the HTB Academy and TryHackMe labs:
 
 ## 📂 Featured CTF Walkthroughs
 I document my methodology for every machine I compromise in my [THM-ROOMS](https://github.com/yusupbayev/THM-ROOMS) repository:
-* 🟠 **Wonderland** - Chaining Python Library Hijacking, SUID PATH Injection, and Perl Capabilities.
+* 🟠 **Wonderland** - Advanced Linux exploitation chaining Python Library Hijacking, SUID PATH Injection, and Perl Capabilities.
+* 🟠 **Mr. Robot CTF** - Multi-step reconnaissance, WordPress credential harvesting, and SUID-based privilege escalation.
 * 🟢 **GLITCH** - API Fuzzing & Node.js Remote Code Execution.
 * 🟢 **BountyHacker** - Anonymous FTP & Tar Wildcard exploitation.
-* 🟢 **Tomghost** - Detailed analysis of Ghostcat (CVE-2020-1938).
+* 🟢 **Tomghost** - Detailed analysis of Ghostcat (CVE-2020-1938) and AJP connector exploitation.
 * 🟢 **All In One** - WordPress exploitation and SUID `socat` escalation.
 * 🟢 **CyberHeroes** - JavaScript deobfuscation and authentication bypass.
 

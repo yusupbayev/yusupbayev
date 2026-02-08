@@ -35,6 +35,7 @@ Derived from rigorous training in the HTB Academy and TryHackMe labs:
 
 ## 📂 Featured CTF Walkthroughs
 I document my methodology for every machine I compromise in my [THM-ROOMS](https://github.com/yusupbayev/THM-ROOMS) repository:
+* 🔴 **Internal** - Multi-stage pivot involving WordPress exploitation, SSH tunneling to a Dockerized Jenkins server, and container escape via credential harvesting.
 * 🟠 **Wonderland** - Advanced Linux exploitation chaining Python Library Hijacking, SUID PATH Injection, and Perl Capabilities.
 * 🟠 **Mr. Robot CTF** - Multi-step reconnaissance, WordPress credential harvesting, and SUID-based privilege escalation.
 * 🟢 **GLITCH** - API Fuzzing & Node.js Remote Code Execution.
